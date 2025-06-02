@@ -1,0 +1,502 @@
+/* Fond général avec effet de texture marine */
+body {
+    background: linear-gradient(to bottom right, #1c2a49, #2f4b78);
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 40px 20px;
+    color: #f0f8ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+/* Titre avec style aventure */
+h2 {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 30px;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.6);
+    color: #fcd974;
+    letter-spacing: 1px;
+}
+
+/* Liste des extensions */
+.extensions-list {
+    max-width: 480px;
+    margin: 0 auto 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.extension-box {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    -webkit-tap-highlight-color: transparent;
+}
+
+    .extension-box:hover {
+        transform: translateY(-6px) scale(1.02);
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    .extension-box img {
+        width: 60px;
+        height: 60px;
+        border-radius: 12px;
+        object-fit: cover;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.4);
+    }
+
+    .extension-box p {
+        color: #fff;
+        font-weight: 700;
+        font-size: 1.25rem;
+        margin: 0;
+    }
+
+/* Filtres */
+.filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 30px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 900px;
+    margin: 20px auto 40px;
+}
+
+/* Groupe de filtres */
+.filter-group {
+    background: rgba(255, 255, 255, 0.07);
+    border-radius: 14px;
+    padding: 16px 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+
+    .filter-group:hover {
+        background: rgba(252, 217, 116, 0.1);
+    }
+
+/* Titres filtres généraux */
+.filters h3 {
+    font-size: 1.3rem;
+    font-weight: 900;
+    margin-bottom: 12px;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+    color: #fcd974; /* couleur par défaut */
+}
+
+/* Couleur or comme le titre principal pour rareté */
+.rarity-filter h3,
+.special-rarity-filter h3 {
+    color: #fcd974;
+    letter-spacing: 1.2px;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.7);
+}
+
+/* Labels et inputs dans filtres */
+.filter-group label {
+    color: #f0f8ff;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.filter-group input[type="checkbox"] {
+    accent-color: #fcd974;
+    width: 20px;
+    height: 20px;
+}
+
+/* Boutons Exporter et Importer */
+
+/* Wrapper pour cacher l'input file */
+.file-upload-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+    /* Cacher l'input file */
+    .file-upload-wrapper input[type="file"] {
+        opacity: 0;
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        z-index: -1;
+    }
+
+/* Style du label comme un bouton */
+.custom-file-label {
+    background-color: #fcd974;
+    color: #1c2a49;
+    border-radius: 10px;
+    padding: 12px 24px;
+    font-weight: 700;
+    font-size: 1.1rem;
+    cursor: pointer;
+    display: inline-block;
+    box-shadow: 0 4px 10px rgba(252, 217, 116, 0.6);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    user-select: none;
+}
+
+    .custom-file-label:hover {
+        background-color: #ffe89c;
+        color: #1c2a49;
+        box-shadow: 0 6px 16px rgba(255, 232, 156, 0.8);
+    }
+
+/* Conteneur des boutons (Exporter + Importer) */
+.mb-3 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 30px;
+    align-items: center;
+}
+
+    /* Bouton Exporter */
+    .mb-3 button {
+        background-color: #fcd974;
+        color: #1c2a49;
+        border: none;
+        padding: 12px 24px;
+        border-radius: 10px;
+        font-weight: 700;
+        font-size: 1.1rem;
+        cursor: pointer;
+        box-shadow: 0 4px 10px rgba(252, 217, 116, 0.6);
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+        .mb-3 button:hover {
+            background-color: #ffe89c;
+            color: #1c2a49;
+            box-shadow: 0 6px 16px rgba(255, 232, 156, 0.8);
+        }
+
+/* Grille de cartes */
+.cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 25px;
+    width: 100%;
+    max-width: 1000px;
+    margin-top: 20px;
+}
+
+.card-box {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    padding: 16px;
+    text-align: center;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+    .card-box:hover {
+        transform: translateY(-6px);
+        box-shadow: 0 12px 24px rgba(0, 0, 0, 0.45);
+    }
+
+    .card-box img {
+        max-width: 100%;
+        border-radius: 12px;
+        margin-bottom: 12px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    }
+
+    .card-box p {
+        font-weight: bold;
+        color: #fff;
+        margin-bottom: 10px;
+        font-size: 1.1rem;
+    }
+
+    .card-box input[type="checkbox"] {
+        width: 22px;
+        height: 22px;
+        accent-color: #fcd974;
+    }
+
+/* Bouton de tri */
+button.sort-toggle {
+    background: #fcd974;
+    color: #1c2a49;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    button.sort-toggle:hover {
+        background: #ffe89c;
+        color: #000;
+    }
+
+/* Loader */
+.loader {
+    border: 6px solid rgba(255, 255, 255, 0.2);
+    border-top-color: #fcd974;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1s linear infinite;
+    margin: 20vh auto 0;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Modal pour image */
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+}
+
+    .modal-content img {
+        max-width: 100%;
+        max-height: 80vh;
+        display: block;
+        margin: 0 auto;
+    }
+
+.modal-close {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    font-size: 26px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #444;
+    font-weight: bold;
+}
+
+/* Pagination */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 3rem 0 2rem;
+    font-family: Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+    .pagination button {
+        background-color: #fcd974;
+        color: #1c2a49;
+        border: none;
+        padding: 8px 16px;
+        border-radius: 6px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+        .pagination button:hover:not(:disabled) {
+            background-color: #ffe89c;
+            color: #000;
+        }
+
+        .pagination button:disabled {
+            background-color: #ccc;
+            color: #777;
+            cursor: not-allowed;
+        }
+
+    .pagination span {
+        font-size: 1rem;
+        font-weight: bold;
+    }
+
+/* Responsive amélioré */
+@media (max-width: 600px) {
+    body {
+        padding: 30px 12px;
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .extensions-list {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+
+    .extension-box {
+        padding: 12px;
+        gap: 10px;
+    }
+
+        .extension-box img {
+            width: 50px;
+            height: 50px;
+        }
+
+        .extension-box p {
+            font-size: 1rem;
+        }
+
+    .filters {
+        gap: 12px 15px;
+        max-width: 100%;
+        padding: 0 10px;
+    }
+
+    .filter-group {
+        padding: 12px 16px;
+        margin-bottom: 15px;
+    }
+
+    .filters h3,
+    .rarity-filter h3,
+    .special-rarity-filter h3 {
+        font-size: 1.1rem;
+    }
+
+    .filter-group label {
+        font-size: 0.95rem;
+        gap: 8px;
+    }
+
+    .filter-group input[type="checkbox"] {
+        width: 18px;
+        height: 18px;
+    }
+
+    .cards-grid {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+        gap: 18px;
+        max-width: 100%;
+    }
+
+    .card-box {
+        padding: 12px;
+    }
+
+        .card-box p {
+            font-size: 0.9rem; /* un peu plus petit */
+            margin-bottom: 6px;
+            white-space: nowrap; /* éviter passage à la ligne */
+            overflow: hidden;
+            text-overflow: ellipsis; /* tronquer si trop long */
+        }
+
+        .card-box input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+        }
+
+    button.sort-toggle {
+        padding: 8px 12px;
+        font-size: 1rem;
+        width: 100%;
+        max-width: 320px;
+    }
+
+    .pagination {
+        flex-wrap: wrap;
+        gap: 10px;
+        font-size: 1rem;
+    }
+
+        .pagination button {
+            padding: 6px 12px;
+            font-size: 1rem;
+        }
+
+    /* Boutons Importer/Exporter côte à côte avec même taille */
+    .mb-3 {
+        gap: 12px;
+        flex-direction: row; /* côte à côte */
+        justify-content: center;
+        align-items: center;
+        flex-wrap: nowrap; /* éviter empilement */
+    }
+
+        .mb-3 button,
+        .custom-file-label {
+            flex: 1; /* même largeur */
+            max-width: 180px; /* largeur max raisonnable */
+            padding: 10px 0;
+            font-size: 1rem;
+            text-align: center;
+            cursor: pointer;
+            box-sizing: border-box;
+        }
+
+    /* Container flex pour label + select "Ascendant" */
+    .sort-container {
+        display: flex;
+        align-items: center;
+        gap: 10px; /* espace entre label et select */
+        justify-content: center;
+        margin-top: 10px;
+        flex-wrap: wrap;
+    }
+}
+
+/* Gestion du focus sur select */
+select:focus {
+    outline: none;
+}
+
+select:focus-visible {
+    outline: 2px solid #fcd974;
+    outline-offset: 3px;
+}
+
+#exportBtn {
+    z-index: 1;
+    cursor: pointer;
+    position: relative;
+}

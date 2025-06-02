@@ -1,0 +1,1599 @@
+﻿[
+    {
+        "Id": 1,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-001.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-001",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 2,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-001(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-001",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 3,
+        "Name": "Uta",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-002.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-002",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 4,
+        "Name": "Uta",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-002(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-002",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 5,
+        "Name": "Shachi & Penguin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-003.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-003",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 6,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-004.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-004",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 7,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-004(2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-004",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 8,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-004(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-004",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 9,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-004(V.4).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-004",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 10,
+        "Name": "Silvers Rayleigh",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-005.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-005",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 11,
+        "Name": "Howling Gab",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-006.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-006",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 12,
+        "Name": "Heat",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-007.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-007",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 13,
+        "Name": "Building Snake",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-008.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-008",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 14,
+        "Name": "Benn.Beckman",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-009.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-009",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 15,
+        "Name": "Benn.Beckman",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-009(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-009",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 16,
+        "Name": "Bonk Punch",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-010.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-010",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 17,
+        "Name": "Hongo",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-0011.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-011",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 18,
+        "Name": "Monster",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-012.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-012",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 19,
+        "Name": "Yasopp",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-013.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-013",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 20,
+        "Name": "Limejuice",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-014.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-014",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 21,
+        "Name": "Lucky.Roux",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-015.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-015",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 22,
+        "Name": "Rockstar",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-016.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-016",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 23,
+        "Name": "Wire",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-017.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-017",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 24,
+        "Name": "Get Out of Here!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-018.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-018",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 25,
+        "Name": "Nobody Hurts a Friend of Mine!!!!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-019.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-019",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 26,
+        "Name": "Come On!! We'll Fight You!!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-020.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-020",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 27,
+        "Name": "Red Force",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-021.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-021",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 28,
+        "Name": "Lim",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-022.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-022",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 29,
+        "Name": "Lim",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-022(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-022",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 30,
+        "Name": "Adio",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-023.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-023",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 31,
+        "Name": "Adio",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-023(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-023",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 32,
+        "Name": "Usopp",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-024.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-024",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 33,
+        "Name": "Crocodile",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-025.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-025",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 34,
+        "Name": "Sakazuki",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-026.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-026",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 35,
+        "Name": "Sabo",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-027.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-027",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 36,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-028.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-028",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 37,
+        "Name": "Tony Tony.Chopper",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-029.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-029",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 38,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-030.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-030",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 39,
+        "Name": "Donquixote.Doflamingo",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-031.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-031",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 40,
+        "Name": "Donquixote.Rosinante",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-032.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-032",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 41,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-033.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-033",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 42,
+        "Name": "Perona",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-034.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-034",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 43,
+        "Name": "Perona",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-034(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-034",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 44,
+        "Name": "Portgas.D.Ace",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-035.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-035",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 45,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-036.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-036",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 46,
+        "Name": "Lim",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-037.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-037",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 47,
+        "Name": "Lim",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-037(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-037",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 48,
+        "Name": "Rob Lucci",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-028.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-038",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 49,
+        "Name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-039.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-039",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 50,
+        "Name": "Thunder Lance Flip Caliber Phoenix Shot",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-040.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-040",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 51,
+        "Name": "Soul Franky Swing Arm Boxing Solid",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-041.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-041",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 52,
+        "Name": "Buggy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-042.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-042",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 53,
+        "Name": "Buggy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-042(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-042",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 54,
+        "Name": "Alvida",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-043.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-043",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 55,
+        "Name": "Izo",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-044.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-044",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 56,
+        "Name": "Cabaji",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-045.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-045",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 57,
+        "Name": "Crocodile",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-046.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-046",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 58,
+        "Name": "Crocodile",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-046(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-046",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 59,
+        "Name": "Kouzuki Oden",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-047.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-047",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 60,
+        "Name": "Dracule Mihawk",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-048.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-048",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 61,
+        "Name": "Dracule Mihawk",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-0048(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-048",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 62,
+        "Name": "Jozu",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-049.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-049",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 63,
+        "Name": "Nami",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-050.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-050",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 64,
+        "Name": "Nami",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-050(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-050",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 65,
+        "Name": "Buggy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-051.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-051",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 66,
+        "Name": "Buggy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-051(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-051",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 67,
+        "Name": "Buggy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-051(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-051",
+        "Rarity": "R",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 68,
+        "Name": "Buggy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-051(V.4).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-051",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 69,
+        "Name": "Marco",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-052.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-052",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 70,
+        "Name": "Mohji",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-053.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-053",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 71,
+        "Name": "Richie",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-054.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-054",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 72,
+        "Name": "Mr.1(Diaz.Bonez)",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-055.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-055",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 73,
+        "Name": "Mr.3(Galdino)",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-056.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-056",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 74,
+        "Name": "Cross Guild",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-057.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-057",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 75,
+        "Name": "Special Muggy Ball",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-058.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-058",
+        "Rarity": "C",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 76,
+        "Name": "Murder at the Steam Bath",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-059.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-059",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 77,
+        "Name": "Emptee Bluffs Island",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-060.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-060",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 78,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-061.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-061",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 79,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-061(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-061",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 80,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-062.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-062",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 81,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-062(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-062",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 82,
+        "Name": "Usopp",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-063.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-063",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 83,
+        "Name": "Killer",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-064.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-064",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 84,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-065.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-065",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 85,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-065(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-065",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 86,
+        "Name": "Jean Bart",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-066.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-066",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 87,
+        "Name": "Jinbe",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-067.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-067",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 88,
+        "Name": "Tony Tony.Chopper",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-068.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-068",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 89,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-069.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-069",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 90,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-069(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-069",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 91,
+        "Name": "Nami",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-070.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-070",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 92,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-071.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-071",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 93,
+        "Name": "Franky",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-072.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-072",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 94,
+        "Name": "Franky",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-072(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-072",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 95,
+        "Name": "Brook",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-073.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-073",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 96,
+        "Name": "Bepo",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-074.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-074",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 97,
+        "Name": "Eustass Captain Kid",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-075.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-075",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 98,
+        "Name": "Roronoa Zoro",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-076.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-076",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 99,
+        "Name": "Gum-Gum Lightning",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-077.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-077",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 100,
+        "Name": "Gum-Gum Giant",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-078.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-078",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 101,
+        "Name": "Gum-Gum Jump Rope",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-079.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-079",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 102,
+        "Name": "Thousand Sunny",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-080.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-080",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 103,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-081.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-081",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 104,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-081(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-081",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 105,
+        "Name": "Avalo Pizarro",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-082.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-082",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 106,
+        "Name": "Van Augur",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-083.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-083",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 107,
+        "Name": "Catarina Devon",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-084.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-084",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 108,
+        "Name": "Gecko Moria",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-085.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-085",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 109,
+        "Name": "Jesus Burgess",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-086.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-086",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 110,
+        "Name": "Charlotte Pudding",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-087.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-087",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 111,
+        "Name": "Shiryu",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-088.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-088",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 112,
+        "Name": "Stronger",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-089.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-089",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 113,
+        "Name": "Doc Q",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-090.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-090",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 114,
+        "Name": "Vasco Shot",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-091.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-091",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 115,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-092.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-092",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 116,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-093.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-093",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 117,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-093(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-093",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 118,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-093(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-093",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 119,
+        "Name": "Marshall.D.Teach",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-093(V.4).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-093",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 120,
+        "Name": "Peachbeard",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-094.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-094",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 121,
+        "Name": "Laffitte",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-095.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-095",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 122,
+        "Name": "My Era...Begins!!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-096.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-096",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 123,
+        "Name": "Black Vortex",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-097.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-097",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 124,
+        "Name": "Black Hole",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-098.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-098",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 125,
+        "Name": "Fullalead",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-099.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-099",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 126,
+        "Name": "Karasu",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-100.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-100",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 127,
+        "Name": "Kuzan",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-101.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-101",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 128,
+        "Name": "Professor Clover",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-102.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-102",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 129,
+        "Name": "Koala",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-103.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-103",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 130,
+        "Name": "Koala",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-103(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-103",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 131,
+        "Name": "Sabo",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-104.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-104",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 132,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-105.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-105",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 133,
+        "Name": "Nico Olvia",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-106.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-106",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 134,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-107.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-107",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 135,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-107(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-107",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 136,
+        "Name": "Bartholomew Kuma",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-108.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-108",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 137,
+        "Name": "Jaguar.D.Saul",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-109.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-109",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 138,
+        "Name": "Pierre",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-110.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-110",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 139,
+        "Name": "Brook",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-111.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-111",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 140,
+        "Name": "Belo Betty",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-112.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-112",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 141,
+        "Name": "Morley",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-113.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-113",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 142,
+        "Name": "Lindbergh",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-114.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-114",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 143,
+        "Name": "Ice Block Partisan",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-115.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-115",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 144,
+        "Name": "Never Underestimate the Power of Miracles!!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-116.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-116",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 145,
+        "Name": "Dereshi!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-117.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-117",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 146,
+        "Name": "Gol.D.Roger",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-118.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-118",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 147,
+        "Name": "Gol.D.Roger",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-118(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-118",
+        "Rarity": "SEC",
+        "SpecialRarity": "MANGA",
+        "Owned": false
+    },
+    {
+        "Id": 148,
+        "Name": "Gol.D.Roger",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-118(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-118",
+        "Rarity": "SEC",
+        "SpecialRarity": "MANGA",
+        "Owned": false
+    },
+    {
+        "Id": 149,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-119.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-119",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 150,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-119(V.2).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-119",
+        "Rarity": "SEC",
+        "SpecialRarity": "MANGA",
+        "Owned": false
+    },
+    {
+        "Id": 151,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-119(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-119",
+        "Rarity": "SEC",
+        "SpecialRarity": "MANGA",
+        "Owned": false
+    },
+    {
+        "Id": 152,
+        "Name": "Donquixote.Rosinante",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP04-119(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP04-119",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 153,
+        "Name": "Zoro-Juurou",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP05-067(V.5).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP05-067",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 154,
+        "Name": "Rob Lucci",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP05-093(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP05-093",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 155,
+        "Name": "Monkey.D.Luffy",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP05-119(V6).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP05-119",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 156,
+        "Name": "Monkey.D.Dragon",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP07-015(V.3).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP07-015",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 157,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP07-051(V.4).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP07-051",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 158,
+        "Name": "Nami",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP08-106(V.5).png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP08-106",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 159,
+        "Name": "DON!!",
+        "ImagePath": "images/cards/les nouveaux empereurs/OP09-DON.png",
+        "Extension": "Les nouveaux empereurs",
+        "Series": "OP09-DON",
+        "Rarity": "DON",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    }
+
+
+
+
+
+
+
+]

@@ -1,0 +1,405 @@
+﻿@page "/collection/{ExtensionName}"
+@inject HttpClient Http
+@inject Blazored.LocalStorage.ILocalStorageService localStorage
+@using System.Text.Json
+@inject IJSRuntime JS
+
+<h2>Cartes de l'extension : @ExtensionNameText</h2>
+
+<div class="mb-3">
+    <button @onclick="ExportCollection" id="exportBtn">Exporter la collection</button>
+
+    <div class="file-upload-wrapper">
+        <label class="custom-file-label">
+            Importer la collection
+            <InputFile OnChange="ImportCollection" class="hidden-input" />
+        </label>
+
+    </div>
+</div>
+
+<div class="mb-3 p-2 rounded bg-light border d-inline-block">
+    <strong>Collection @ExtensionNameText</strong> :
+    <span class="text-success">@OwnedCount</span> /
+    <span class="text-muted">@TotalCount</span> cartes possédées
+</div>
+
+<div class="filters-wrapper">
+    <div class="filters">
+
+        <div class="filter-group rarity-filter">
+            <h3>Filtrer par rareté :</h3>
+            @foreach (var rarity in AllRarities)
+            {
+                <label>
+                    <input type="checkbox" checked="@GetRarityChecked(rarity)" @onchange="e => OnRarityChange(e, rarity)" />
+                    @rarity
+                </label>
+            }
+        </div>
+
+        <div class="filter-group special-rarity-filter">
+            <h3>Filtrer par rareté spéciale :</h3>
+            @foreach (var special in AllSpecialRarities)
+            {
+                <label>
+                    <input type="checkbox" checked="@GetSpecialChecked(special)" @onchange="e => OnSpecialChange(e, special)" />
+                    @special
+                </label>
+            }
+        </div>
+
+        <div class="filter-group">
+            <h3>Filtrer par possession :</h3>
+            <select @bind="OwnedFilter">
+                <option value="">Toutes</option>
+                <option value="owned">Possédées</option>
+                <option value="notOwned">Non possédées</option>
+            </select>
+        </div>
+
+        <div class="filter-group">
+            <h3>Trier par :</h3>
+            <select @bind="SortOption">
+                <option value="id">Par numéro</option>
+                <option value="name">Par nom</option>
+                <option value="rarity">Par rareté</option>
+                <option value="specialRarity">Par rareté spéciale</option>
+            </select>
+
+            <button class="sort-toggle" @onclick="ToggleSortDirection">
+                @(SortAscending ? "Ascendant" : "Descendant")
+            </button>
+        </div>
+
+    </div>
+</div>
+
+
+@if (FilteredCards.Count == 0)
+{
+    <p>Aucune carte ne correspond aux filtres sélectionnés.</p>
+}
+else
+{
+    <div class="cards-grid">
+        @foreach (var card in PaginatedCards)
+        {
+            <div class="card-box">
+                <img src="@card.ImagePath" alt="@card.Name" @onclick="() => ShowImage(card.ImagePath)" style="cursor:pointer" />
+                <p>@card.Name (@card.Rarity, @card.SpecialRarity)</p>
+                <input type="checkbox" checked="@card.Owned" @onchange="(e) => Toggle(card, e)" />
+            </div>
+        }
+    </div>
+
+    <div class="pagination">
+        <button @onclick="PreviousPage" disabled="@(CurrentPage == 1)">Précédent</button>
+        <span>Page @CurrentPage / @TotalPages</span>
+        <button @onclick="NextPage" disabled="@(CurrentPage == TotalPages)">Suivant</button>
+    </div>
+
+    @if (IsImageModalOpen)
+    {
+        <div class="modal-backdrop" @onclick="CloseImage">
+            <div class="modal-content" @onclick:stopPropagation>
+                <button class="modal-close" @onclick="CloseImage">×</button>
+                <img src="@EnlargedImageSrc" alt="Image agrandie" />
+            </div>
+        </div>
+    }
+}
+
+@code {
+    [Parameter]
+    public string? ExtensionName { get; set; }
+
+    private string ExtensionNameText => string.IsNullOrEmpty(ExtensionName) || ExtensionName == "all" ? "Complète" : ExtensionName;
+
+    private List<Card> cards = new();
+    private List<Card> FilteredCards = new();
+
+    private int TotalCount => FilteredCards.Count;
+    private int OwnedCount => FilteredCards.Count(c => c.Owned);
+
+    private Dictionary<string, bool> RarityFilters = new();
+    private Dictionary<string, bool> SpecialRarityFilters = new();
+
+    private string ownedFilter = "";
+    private string OwnedFilter
+    {
+        get => ownedFilter;
+        set
+        {
+            if (ownedFilter != value)
+            {
+                ownedFilter = value;
+                CurrentPage = 1;
+                ApplyFilters();
+            }
+        }
+    }
+
+    private string sortOption = "id";
+    private string SortOption
+    {
+        get => sortOption;
+        set
+        {
+            if (sortOption != value)
+            {
+                sortOption = value;
+                ApplyFilters();
+            }
+        }
+    }
+
+    private readonly string[] AllRarities = new[] { "C", "UC", "R", "SR","P", "L", "SEC", "DON" };
+    private readonly string[] AllSpecialRarities = new[] { "REG ART", "ALT ART", "FULL ART", "Manga" };
+
+    private bool SortAscending { get; set; } = true;
+
+    private int PageSize = 20;
+    private int CurrentPage = 1;
+
+    private int TotalPages => (int)Math.Ceiling((double)FilteredCards.Count / PageSize);
+
+    private List<Card> PaginatedCards => FilteredCards.Skip((CurrentPage - 1) * PageSize).Take(PageSize).ToList();
+
+    protected override async Task OnInitializedAsync()
+    {
+        foreach (var rarity in AllRarities)
+            RarityFilters[rarity] = false;
+
+        foreach (var special in AllSpecialRarities)
+            SpecialRarityFilters[special] = false;
+
+        var cards1 = await Http.GetFromJsonAsync<List<Card>>("theBest.json") ?? new();
+        var cards2 = await Http.GetFromJsonAsync<List<Card>>("lesNouveauxEmpereurs.json") ?? new();
+        cards = cards1.Concat(cards2).ToList();
+
+        foreach (var c in cards)
+        {
+            c.Extension = c.Extension.Trim();
+        }
+
+        // Charger les cartes possédées dans le localStorage
+        if (!string.IsNullOrEmpty(ExtensionName) && ExtensionName != "all")
+        {
+            var key = $"cardsOwned_{ExtensionName}";
+            var json = await localStorage.GetItemAsync<string>(key);
+            var ownedList = !string.IsNullOrEmpty(json)
+                ? JsonSerializer.Deserialize<List<CardOwned>>(json)
+                : new List<CardOwned>();
+
+            foreach (var c in cards.Where(c => c.Extension == ExtensionName))
+            {
+                var owned = ownedList.FirstOrDefault(x => x.Id == c.Id);
+                c.Owned = owned?.Owned ?? false;
+            }
+        }
+        else
+        {
+            // Pour "all" on pourrait charger toutes les extensions et marquer comme possédé
+            // Ici on laisse Owned à false par défaut
+        }
+
+        ApplyFilters();
+    }
+
+    private void ApplyFilters()
+    {
+        IEnumerable<Card> filtered = cards;
+
+        if (!string.IsNullOrEmpty(ExtensionName) && ExtensionName != "all")
+        {
+            filtered = filtered.Where(c => c.Extension == ExtensionName);
+        }
+
+        // Filtrer par rareté
+        var activeRarities = RarityFilters.Where(kv => kv.Value).Select(kv => kv.Key).ToList();
+        if (activeRarities.Any())
+        {
+            filtered = filtered.Where(c => activeRarities.Contains(c.Rarity));
+        }
+
+        // Filtrer par rareté spéciale
+        var activeSpecials = SpecialRarityFilters.Where(kv => kv.Value).Select(kv => kv.Key).ToList();
+        if (activeSpecials.Any())
+        {
+            filtered = filtered.Where(c => activeSpecials.Contains(c.SpecialRarity));
+        }
+
+        // Filtrer par possession
+        if (OwnedFilter == "owned")
+            filtered = filtered.Where(c => c.Owned);
+        else if (OwnedFilter == "notOwned")
+            filtered = filtered.Where(c => !c.Owned);
+
+        // Trier
+        filtered = sortOption switch
+        {
+            "name" => SortAscending ? filtered.OrderBy(c => c.Name) : filtered.OrderByDescending(c => c.Name),
+            "rarity" => SortAscending ? filtered.OrderBy(c => c.Rarity) : filtered.OrderByDescending(c => c.Rarity),
+            "specialRarity" => SortAscending ? filtered.OrderBy(c => c.SpecialRarity) : filtered.OrderByDescending(c => c.SpecialRarity),
+            _ => SortAscending ? filtered.OrderBy(c => c.Id) : filtered.OrderByDescending(c => c.Id)
+        };
+
+        FilteredCards = filtered.ToList();
+        if (CurrentPage > TotalPages) CurrentPage = TotalPages == 0 ? 1 : TotalPages;
+    }
+
+    private void OnRarityChange(ChangeEventArgs e, string rarity)
+    {
+        if (e.Value is bool b)
+            RarityFilters[rarity] = b;
+        else if (e.Value is string s)
+            RarityFilters[rarity] = s == "true";
+        else
+            RarityFilters[rarity] = !RarityFilters[rarity];
+
+        CurrentPage = 1;
+        ApplyFilters();
+    }
+
+    private void OnSpecialChange(ChangeEventArgs e, string special)
+    {
+        if (e.Value is bool b)
+            SpecialRarityFilters[special] = b;
+        else if (e.Value is string s)
+            SpecialRarityFilters[special] = s == "true";
+        else
+            SpecialRarityFilters[special] = !SpecialRarityFilters[special];
+
+        CurrentPage = 1;
+        ApplyFilters();
+    }
+
+    private bool GetRarityChecked(string rarity) => RarityFilters.TryGetValue(rarity, out var val) && val;
+    private bool GetSpecialChecked(string special) => SpecialRarityFilters.TryGetValue(special, out var val) && val;
+
+    private async Task Toggle(Card card, ChangeEventArgs e)
+    {
+        card.Owned = (bool)e.Value;
+
+        var key = $"cardsOwned_{card.Extension}";
+
+        var json = await localStorage.GetItemAsync<string>(key);
+        var ownedList = !string.IsNullOrEmpty(json)
+            ? JsonSerializer.Deserialize<List<CardOwned>>(json)
+            : new List<CardOwned>();
+
+        var match = ownedList.FirstOrDefault(c => c.Id == card.Id);
+
+        if (card.Owned)
+        {
+            if (match == null)
+            {
+                ownedList.Add(new CardOwned { Id = card.Id, Owned = true });
+            }
+            else
+            {
+                match.Owned = true;
+            }
+        }
+        else
+        {
+            if (match != null)
+                ownedList.Remove(match);
+        }
+
+        var newJson = JsonSerializer.Serialize(ownedList);
+        await localStorage.SetItemAsync(key, newJson);
+
+        ApplyFilters();
+    }
+
+    private void ToggleSortDirection()
+    {
+        SortAscending = !SortAscending;
+        ApplyFilters();
+    }
+
+    private void PreviousPage()
+    {
+        if (CurrentPage > 1)
+        {
+            CurrentPage--;
+            ApplyFilters();
+        }
+    }
+
+    private void NextPage()
+    {
+        if (CurrentPage < TotalPages)
+        {
+            CurrentPage++;
+            ApplyFilters();
+        }
+    }
+
+    private bool IsImageModalOpen = false;
+    private string EnlargedImageSrc = "";
+
+    private void ShowImage(string src)
+    {
+        EnlargedImageSrc = src;
+        IsImageModalOpen = true;
+    }
+
+    private void CloseImage()
+    {
+        IsImageModalOpen = false;
+        EnlargedImageSrc = "";
+    }
+    private async Task ExportCollection()
+    {
+        // On récupère les données dans localStorage pour cette extension
+        var key = $"cardsOwned_{ExtensionName}";
+        var json = await localStorage.GetItemAsync<string>(key);
+        if (string.IsNullOrEmpty(json))
+        {
+            json = "[]"; // Pas de données
+        }
+
+        // Générer un fichier à télécharger avec le JSON
+        // Blazor WebAssembly ne permet pas d'accéder au système de fichiers,
+        // donc on utilise JSInterop pour forcer le téléchargement
+
+        await JS.InvokeVoidAsync("downloadFile", $"{ExtensionName}_collection.json", json);
+    }
+
+    private async Task ImportCollection(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        using var stream = file.OpenReadStream(maxAllowedSize: 10_000_000); // 10 MB max
+        using var reader = new StreamReader(stream);
+        var json = await reader.ReadToEndAsync();
+
+        try
+        {
+            var importedList = JsonSerializer.Deserialize<List<CardOwned>>(json);
+            if (importedList != null)
+            {
+                var key = $"cardsOwned_{ExtensionName}";
+                await localStorage.SetItemAsync(key, json);
+
+                foreach (var c in cards.Where(c => c.Extension == ExtensionName))
+                {
+                    var owned = importedList.FirstOrDefault(x => x.Id == c.Id);
+                    c.Owned = owned?.Owned ?? false;
+                }
+
+                ApplyFilters();
+            }
+            else
+            {
+                // Optionnel : message d’erreur
+            }
+        }
+        catch
+        {
+            // Optionnel : gestion erreur
+        }
+    }
+}

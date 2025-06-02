@@ -1,0 +1,77 @@
+﻿@page "/"
+@using System.Text.Json
+@inject NavigationManager Nav
+@inject HttpClient Http
+@inject Blazored.LocalStorage.ILocalStorageService localStorage
+
+<h1>Choisis une extension</h1>
+
+
+@if (extensions.Count == 0)
+{
+    <p>Chargement...</p>
+}
+else
+{
+
+
+    <div class="extensions-list">
+        @foreach (var ext in extensions)
+        {
+            <div class="extension-box" @onclick="@(() => GoToExtension(ext.Name))" style="cursor:pointer;">
+                <p>@ext.Name</p>
+                <p><strong>@ext.Owned</strong> / @ext.Total cartes</p>
+            </div>
+        }
+    </div>
+
+
+}
+
+@code {
+    private List<ExtensionStats> extensions = new();
+
+    void GoToExtension(string ext) => Nav.NavigateTo($"/collection/{Uri.EscapeDataString(ext)}");
+
+    protected override async Task OnInitializedAsync()
+    {
+        var cards1 = await Http.GetFromJsonAsync<List<Card>>("theBest.json") ?? new();
+        var cards2 = await Http.GetFromJsonAsync<List<Card>>("lesNouveauxEmpereurs.json") ?? new();
+        var allCards = cards1.Concat(cards2).ToList();
+
+        foreach (var c in allCards)
+        {
+            c.Extension = c.Extension.Trim();
+        }
+
+        extensions.Clear();
+
+        foreach (var extGroup in allCards.GroupBy(c => c.Extension))
+        {
+            var extName = extGroup.Key;
+            var extCards = extGroup.ToList();
+            var key = $"cardsOwned_{extName}";
+            var json = await localStorage.GetItemAsync<string>(key);
+            var ownedList = !string.IsNullOrEmpty(json)
+                ? JsonSerializer.Deserialize<List<CardOwned>>(json)
+                : new List<CardOwned>();
+
+            foreach (var c in extCards)
+            {
+                var match = ownedList.FirstOrDefault(x => x.Id == c.Id);
+                c.Owned = match?.Owned ?? false;
+            }
+
+            extensions.Add(new ExtensionStats
+            {
+                Name = extName,
+                Total = extCards.Count,
+                Owned = extCards.Count(c => c.Owned)
+            });
+        }
+
+        extensions = extensions.OrderBy(e => e.Name).ToList();
+    }
+
+
+}

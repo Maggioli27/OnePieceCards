@@ -1,0 +1,3193 @@
+﻿[
+    {
+        "Id": 1,
+        "Name": "Tony-Tony Chopper",
+        "ImagePath": "images/cards/the best/EB01-006(V.4).png",
+        "Extension": "The best",
+        "Series": "EB01-006(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 2,
+        "Name": "O-Tama",
+        "ImagePath": "images/cards/the best/OP01-006(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-006(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 3,
+        "Name": "O-Tama",
+        "ImagePath": "images/cards/the best/OP01-006(V.2).png",
+        "Extension": "The best",
+        "Series": "OP01-006(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 4,
+        "Name": "O-Tama",
+        "ImagePath": "images/cards/the best/OP01-006(V.3).png",
+        "Extension": "The best",
+        "Series": "OP01-006(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 5,
+        "Name": "O-Tama",
+        "ImagePath": "images/cards/the best/OP01-006(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-006(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 6,
+        "Name": "Nami",
+        "ImagePath": "images/cards/the best/OP01-016(V.8).png",
+        "Extension": "The best",
+        "Series": "OP01-016(V.8)",
+        "Rarity": "R",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 7,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/OP01-024(V.3).png",
+        "Extension": "The best",
+        "Series": "OP01-024(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 8,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/OP01-024(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-024(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 9,
+        "Name": "Radical Beam",
+        "ImagePath": "images/cards/the best/OP01-029(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-029(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 10,
+        "Name": "Radical Beam",
+        "ImagePath": "images/cards/the best/OP01-029(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-029(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 11,
+        "Name": "Radical Beam",
+        "ImagePath": "images/cards/the best/OP01-029(V.5).png",
+        "Extension": "The best",
+        "Series": "OP01-029(V.5)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 12,
+        "Name": "izo",
+        "ImagePath": "images/cards/the best/OP01-033(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-033(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 13,
+        "Name": "izo",
+        "ImagePath": "images/cards/the best/OP01-033(V.3).png",
+        "Extension": "The best",
+        "Series": "OP01-033(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 14,
+        "Name": "izo",
+        "ImagePath": "images/cards/the best/OP01-033(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-033(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART ",
+        "Owned": false
+    },
+    {
+        "Id": 15,
+        "Name": "izo",
+        "ImagePath": "images/cards/the best/OP01-033(V.5).png",
+        "Extension": "The best",
+        "Series": "OP01-033(V.5)",
+        "Rarity": "UC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 16,
+        "Name": "Momonosuké Kozuki",
+        "ImagePath": "images/cards/the best/OP01-041(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-041(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 17,
+        "Name": "Momonosuké Kozuki",
+        "ImagePath": "images/cards/the best/OP01-041(V.3).png",
+        "Extension": "The best",
+        "Series": "OP01-041(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 18,
+        "Name": "Momonosuké Kozuki",
+        "ImagePath": "images/cards/the best/OP01-041(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-041(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 19,
+        "Name": "Momonosuké Kozuki",
+        "ImagePath": "images/cards/the best/OP01-041(V.5).png",
+        "Extension": "The best",
+        "Series": "OP01-041(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 20,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/OP01-047(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-047(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 21,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/OP01-047(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-029(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 22,
+        "Name": "Eustace Captain Kid",
+        "ImagePath": "images/cards/the best/OP01-051(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-051(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 23,
+        "Name": "Eustace Captain Kid",
+        "ImagePath": "images/cards/the best/OP01-051(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-051(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 24,
+        "Name": "Raizo",
+        "ImagePath": "images/cards/the best/OP01-052(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-052(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 25,
+        "Name": "Raizo",
+        "ImagePath": "images/cards/the best/OP01-052(V.2).png",
+        "Extension": "The best",
+        "Series": "OP01-052(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 26,
+        "Name": "Raizo",
+        "ImagePath": "images/cards/the best/OP01-052(V.3).png",
+        "Extension": "The best",
+        "Series": "OP01-052(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 27,
+        "Name": "Dracula Mihawk",
+        "ImagePath": "images/cards/the best/OP01-070(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-070(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 28,
+        "Name": "Dracula Mihawk",
+        "ImagePath": "images/cards/the best/OP01-070(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-070(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 29,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/the best/OP01-078(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-078(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 30,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/the best/OP01-078(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-078(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 31,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/the best/OP01-120(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-120(V.1)",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 32,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/the best/OP01-120(V.6).png",
+        "Extension": "The best",
+        "Series": "OP01-120(V.6)",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 33,
+        "Name": "Shanks",
+        "ImagePath": "images/cards/the best/OP01-120(V.7).png",
+        "Extension": "The best",
+        "Series": "OP01-120(V.7)",
+        "Rarity": "SEC",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 34,
+        "Name": "Yamato",
+        "ImagePath": "images/cards/the best/OP01-121(V.1).png",
+        "Extension": "The best",
+        "Series": "OP01-121(V.1)",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 35,
+        "Name": "Yamato",
+        "ImagePath": "images/cards/the best/OP01-121(V.4).png",
+        "Extension": "The best",
+        "Series": "OP01-121(V.4)",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 36,
+        "Name": "Edward Newgate ",
+        "ImagePath": "images/cards/the best/OP02-004(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-004(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 37,
+        "Name": "Edward Newgate",
+        "ImagePath": "images/cards/the best/OP02-004(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-004(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 38,
+        "Name": "Portgas D.Ace",
+        "ImagePath": "images/cards/the best/OP02-013(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-013(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 39,
+        "Name": "Makino",
+        "ImagePath": "images/cards/the best/OP02-15(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-015(V.1))",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 40,
+        "Name": "Makino",
+        "ImagePath": "images/cards/the best/OP02-015(V.2).png",
+        "Extension": "The best",
+        "Series": "OP02-015(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 41,
+        "Name": "Makino",
+        "ImagePath": "images/cards/the best/OP02-015(V.3).png",
+        "Extension": "The best",
+        "Series": "OP02-015(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 42,
+        "Name": "Marco",
+        "ImagePath": "images/cards/the best/OP02-018(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-018(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 43,
+        "Name": "Marco",
+        "ImagePath": "images/cards/the best/OP02-018(V.4).png",
+        "Extension": "The best",
+        "Series": "OP02-018(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 44,
+        "Name": "Marco",
+        "ImagePath": "images/cards/the best/OP02-018(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-018(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 45,
+        "Name": "Marco",
+        "ImagePath": "images/cards/the best/OP02-018(V.6).png",
+        "Extension": "The best",
+        "Series": "OP02-018(V.6)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 46,
+        "Name": "Juge des Enfers",
+        "ImagePath": "images/cards/the best/OP02-089(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-089(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 47,
+        "Name": "Juge des Enfers",
+        "ImagePath": "images/cards/the best/OP02-089(V.2).png",
+        "Extension": "The best",
+        "Series": "OP02-089(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 48,
+        "Name": "Juge des Enfers",
+        "ImagePath": "images/cards/the best/OP02-089(V.3).png",
+        "Extension": "The best",
+        "Series": "OP02-089(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 49,
+        "Name": "Juge des Enfers",
+        "ImagePath": "images/cards/the best/OP02-089(V.4).png",
+        "Extension": "The best",
+        "Series": "OP02-089(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 50,
+        "Name": "Kuzan",
+        "ImagePath": "images/cards/the best/OP02-096(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-096(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 51,
+        "Name": "Kuzan",
+        "ImagePath": "images/cards/the best/OP02-096(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-096(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 52,
+        "Name": "Sakazuki",
+        "ImagePath": "images/cards/the best/OP02-099(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-099(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 53,
+        "Name": "Sakazuki",
+        "ImagePath": "images/cards/the best/OP02-099(V.6).png",
+        "Extension": "The best",
+        "Series": "OP02-099(V.6)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 54,
+        "Name": "Tsuru",
+        "ImagePath": "images/cards/the best/OP02-106(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-106(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 55,
+        "Name": "Tsuru",
+        "ImagePath": "images/cards/the best/OP02-106(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-106(V.5)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 56,
+        "Name": "Tsuru",
+        "ImagePath": "images/cards/the best/OP02-106(V.6).png",
+        "Extension": "The best",
+        "Series": "OP02-106(V.6)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 57,
+        "Name": "Borsalino",
+        "ImagePath": "images/cards/the best/OP02-114(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-114(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 58,
+        "Name": "Borsalino",
+        "ImagePath": "images/cards/the best/OP02-114(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-114(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 59,
+        "Name": "Ice Age",
+        "ImagePath": "images/cards/the best/OP02-117(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-117(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 60,
+        "Name": "Ice Age",
+        "ImagePath": "images/cards/the best/OP02-117(V.5).png",
+        "Extension": "The best",
+        "Series": "OP02-117(V.5)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 61,
+        "Name": "Ice Age",
+        "ImagePath": "images/cards/the best/OP02-117(V.6).png",
+        "Extension": "The best",
+        "Series": "OP02-117(V.6)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 62,
+        "Name": "Kuzan",
+        "ImagePath": "images/cards/the best/OP02-121(V.1).png",
+        "Extension": "The best",
+        "Series": "OP02-121(V.1)",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 63,
+        "Name": "Kuzan",
+        "ImagePath": "images/cards/the best/OP02-121(V.3).png",
+        "Extension": "The best",
+        "Series": "OP02-121(V.3)",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 64,
+        "Name": "Izo",
+        "ImagePath": "images/cards/the best/OP03-003(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-003(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 65,
+        "Name": "Izo",
+        "ImagePath": "images/cards/the best/OP03-003(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-003(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 66,
+        "Name": "Izo",
+        "ImagePath": "images/cards/the best/OP03-003(V.5).png",
+        "Extension": "The best",
+        "Series": "OP03-003(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 67,
+        "Name": "Izo",
+        "ImagePath": "images/cards/the best/OP03-003(V.6).png",
+        "Extension": "The best",
+        "Series": "OP03-003(V.6)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 68,
+        "Name": "Gum Gum Super Marteau",
+        "ImagePath": "images/cards/the best/OP03-055(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-055(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 69,
+        "Name": "Gum Gum Super Marteau",
+        "ImagePath": "images/cards/the best/OP03-055(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-055(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 70,
+        "Name": "Gum Gum Super Marteau",
+        "ImagePath": "images/cards/the best/OP03-055(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-055(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 71,
+        "Name": "Riz pilaf de Sanji",
+        "ImagePath": "images/cards/the best/OP03-056(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-056(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 72,
+        "Name": "Riz pilaf de Sanji",
+        "ImagePath": "images/cards/the best/OP03-056(V.2).png",
+        "Extension": "The best",
+        "Series": "OP03-056(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 73,
+        "Name": "Riz pilaf de Sanji",
+        "ImagePath": "images/cards/the best/OP03-056(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-056(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 74,
+        "Name": "Riz pilaf de Sanji",
+        "ImagePath": "images/cards/the best/OP03-056(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-056(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 75,
+        "Name": "San Zen Sekai",
+        "ImagePath": "images/cards/the best/OP03-057(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-057(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 76,
+        "Name": "San Zen Sekai",
+        "ImagePath": "images/cards/the best/OP03-057(V.2).png",
+        "Extension": "The best",
+        "Series": "OP03-057(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 77,
+        "Name": "San Zen Sekai",
+        "ImagePath": "images/cards/the best/OP03-057(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-057(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 78,
+        "Name": "San Zen Sekai",
+        "ImagePath": "images/cards/the best/OP03-057(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-057(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 79,
+        "Name": "Khalifa",
+        "ImagePath": "images/cards/the best/OP03-060(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-060(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 80,
+        "Name": "Khalifa",
+        "ImagePath": "images/cards/the best/OP03-060(V.2).png",
+        "Extension": "The best",
+        "Series": "OP03-060(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 81,
+        "Name": "Khalifa",
+        "ImagePath": "images/cards/the best/OP03-060(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-060(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 82,
+        "Name": "Vergo",
+        "ImagePath": "images/cards/the best/OP03-079(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-079(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 83,
+        "Name": "Vergo",
+        "ImagePath": "images/cards/the best/OP03-079(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-079(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 84,
+        "Name": "Vergo",
+        "ImagePath": "images/cards/the best/OP03-079(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-079(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 85,
+        "Name": "Brandnew",
+        "ImagePath": "images/cards/the best/OP03-089(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-089(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 86,
+        "Name": "Brandnew",
+        "ImagePath": "images/cards/the best/OP03-089(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-089(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 87,
+        "Name": "Brandnew",
+        "ImagePath": "images/cards/the best/OP03-089(V.5).png",
+        "Extension": "The best",
+        "Series": "OP03-089(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 88,
+        "Name": "Brandnew",
+        "ImagePath": "images/cards/the best/OP03-089(V.6).png",
+        "Extension": "The best",
+        "Series": "OP03-089(V.6)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 89,
+        "Name": "Air Door",
+        "ImagePath": "images/cards/the best/OP03-094(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-094(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 90,
+        "Name": "Air Door",
+        "ImagePath": "images/cards/the best/OP03-094(V.2).png",
+        "Extension": "The best",
+        "Series": "OP03-094(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 91,
+        "Name": "Air Door",
+        "ImagePath": "images/cards/the best/OP03-094(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-094(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 92,
+        "Name": "Charlotte Cracker",
+        "ImagePath": "images/cards/the best/OP03-108(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-108(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 93,
+        "Name": "Charlotte Cracker",
+        "ImagePath": "images/cards/the best/OP03-108(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-108(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 94,
+        "Name": "Charlotte Smoothie",
+        "ImagePath": "images/cards/the best/OP03-110(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-110(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 95,
+        "Name": "Charlotte Smoothie",
+        "ImagePath": "images/cards/the best/OP03-110(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-110(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 96,
+        "Name": "Charlotte Smoothie",
+        "ImagePath": "images/cards/the best/OP03-110(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-110(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 97,
+        "Name": "Charlotte Smoothie",
+        "ImagePath": "images/cards/the best/OP03-110(V.5).png",
+        "Extension": "The best",
+        "Series": "OP03-110(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 98,
+        "Name": "Charlotte Perospero",
+        "ImagePath": "images/cards/the best/OP03-113(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-113(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 99,
+        "Name": "Charlotte Perospero",
+        "ImagePath": "images/cards/the best/OP03-113(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-113(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 100,
+        "Name": "Shirahosi",
+        "ImagePath": "images/cards/the best/OP03-116(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-116(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 101,
+        "Name": "Shirahosi",
+        "ImagePath": "images/cards/the best/OP03-116(V.3).png",
+        "Extension": "The best",
+        "Series": "OP03-116(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 102,
+        "Name": "Shirahosi",
+        "ImagePath": "images/cards/the best/OP03-116(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-116(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 103,
+        "Name": "Colonne foudroyante",
+        "ImagePath": "images/cards/the best/OP03-121(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-121(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 104,
+        "Name": "Colonne foudroyante",
+        "ImagePath": "images/cards/the best/OP03-121(V.5).png",
+        "Extension": "The best",
+        "Series": "OP03-121(V.5)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 105,
+        "Name": "Colonne foudroyante",
+        "ImagePath": "images/cards/the best/OP03-121(V.6).png",
+        "Extension": "The best",
+        "Series": "OP03-121(V.6)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 106,
+        "Name": "Sogeking",
+        "ImagePath": "images/cards/the best/OP03-122(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-122(V.4)",
+        "Rarity": "SEC",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 107,
+        "Name": "Charlotte Katakuri",
+        "ImagePath": "images/cards/the best/OP03-123(V.1).png",
+        "Extension": "The best",
+        "Series": "OP03-123(V.1)",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 108,
+        "Name": "Charlotte Katakuri",
+        "ImagePath": "images/cards/the best/OP03-123(V.4).png",
+        "Extension": "The best",
+        "Series": "OP03-123(V.4)",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 109,
+        "Name": "Delligner",
+        "ImagePath": "images/cards/the best/OP04-029(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-029(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 110,
+        "Name": "Delligner",
+        "ImagePath": "images/cards/the best/OP04-029(V.2).png",
+        "Extension": "The best",
+        "Series": "OP04-029(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 111,
+        "Name": "Delligner",
+        "ImagePath": "images/cards/the best/OP04-029(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-029(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 112,
+        "Name": "Donquixote Doflamingo",
+        "ImagePath": "images/cards/the best/OP04-031(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-031(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 113,
+        "Name": "Donquixote Doflamingo",
+        "ImagePath": "images/cards/the best/OP04-031(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-031(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 114,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP04-032(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-032(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 115,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP04-032(V.2).png",
+        "Extension": "The best",
+        "Series": "OP04-032(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 116,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP04-032(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-032(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 117,
+        "Name": "Donquixote Family",
+        "ImagePath": "images/cards/the best/OP04-036(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-036(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 118,
+        "Name": "Donquixote Family",
+        "ImagePath": "images/cards/the best/OP04-036(V.2).png",
+        "Extension": "The best",
+        "Series": "OP04-036(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 119,
+        "Name": "Donquixote Family",
+        "ImagePath": "images/cards/the best/OP04-036(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-036(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 120,
+        "Name": "Kaido",
+        "ImagePath": "images/cards/the best/OP04-044(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-044(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 121,
+        "Name": "Kaido",
+        "ImagePath": "images/cards/the best/OP04-044(V.4).png",
+        "Extension": "The best",
+        "Series": "OP04-044(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 122,
+        "Name": "Gum Gum Red Roc",
+        "ImagePath": "images/cards/the best/OP04-056(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-056(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 123,
+        "Name": "Gum Gum Red Roc",
+        "ImagePath": "images/cards/the best/OP04-056(V.2).png",
+        "Extension": "The best",
+        "Series": "OP04-056(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 124,
+        "Name": "Gum Gum Red Roc",
+        "ImagePath": "images/cards/the best/OP04-056(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-056(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 125,
+        "Name": "Gum Gum Red Roc",
+        "ImagePath": "images/cards/the best/OP04-056(V.4).png",
+        "Extension": "The best",
+        "Series": "OP04-056(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 126,
+        "Name": "Sabo",
+        "ImagePath": "images/cards/the best/OP04-083(V.5).png",
+        "Extension": "The best",
+        "Series": "OP04-083(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 127,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/OP04-089(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-089(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 128,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/OP04-089(V.2).png",
+        "Extension": "The best",
+        "Series": "OP04-089(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 129,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/OP04-089(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-089(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 130,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/OP04-089(V.4).png",
+        "Extension": "The best",
+        "Series": "OP04-089(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 131,
+        "Name": "Barrière !!",
+        "ImagePath": "images/cards/the best/OP04-095(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-095(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 132,
+        "Name": "Barrière !!",
+        "ImagePath": "images/cards/the best/OP04-095(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-095(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 133,
+        "Name": "Barrière !!",
+        "ImagePath": "images/cards/the best/OP04-095(V.4).png",
+        "Extension": "The best",
+        "Series": "OP04-095(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 134,
+        "Name": "Capone Gang Bege",
+        "ImagePath": "images/cards/the best/OP04-100(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-100(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 135,
+        "Name": "Capone Gang Bege",
+        "ImagePath": "images/cards/the best/OP04-100(V.4).png",
+        "Extension": "The best",
+        "Series": "OP04-100(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 136,
+        "Name": "Capone Gang Bege",
+        "ImagePath": "images/cards/the best/OP04-100(V.5).png",
+        "Extension": "The best",
+        "Series": "OP04-100(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 137,
+        "Name": "Capone Gang Bege",
+        "ImagePath": "images/cards/the best/OP04-100(V.6).png",
+        "Extension": "The best",
+        "Series": "OP04-100(V.6)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 138,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/the best/OP04-104(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-104(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 139,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/the best/OP04-104(V.3).png",
+        "Extension": "The best",
+        "Series": "OP04-104(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 140,
+        "Name": "Yamato",
+        "ImagePath": "images/cards/the best/OP04-112(V.1).png",
+        "Extension": "The best",
+        "Series": "OP04-112(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 141,
+        "Name": "Yamato",
+        "ImagePath": "images/cards/the best/OP04-112(V.4).png",
+        "Extension": "The best",
+        "Series": "OP04-112(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 142,
+        "Name": "Koala",
+        "ImagePath": "images/cards/the best/OP05-006(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-006(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 143,
+        "Name": "Koala",
+        "ImagePath": "images/cards/the best/OP05-006(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-006(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 144,
+        "Name": "Sabo",
+        "ImagePath": "images/cards/the best/OP05-007(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-007(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 145,
+        "Name": "Sabo",
+        "ImagePath": "images/cards/the best/OP05-007(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-007(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 146,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/the best/OP05-010(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-010(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 147,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/the best/OP05-010(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-010(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 148,
+        "Name": "Nico Robin",
+        "ImagePath": "images/cards/the best/OP05-010(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-010(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 149,
+        "Name": "Belo Betty",
+        "ImagePath": "images/cards/the best/OP05-015(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-015(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 150,
+        "Name": "Belo Betty",
+        "ImagePath": "images/cards/the best/OP05-015(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-015(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 151,
+        "Name": "Belo Betty",
+        "ImagePath": "images/cards/the best/OP05-015(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-015(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 152,
+        "Name": "Belo Betty",
+        "ImagePath": "images/cards/the best/OP05-015(V.5).png",
+        "Extension": "The best",
+        "Series": "OP05-015(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 153,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP05-034(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-034(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 154,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP05-034(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-034(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 155,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP05-034(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-034(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 156,
+        "Name": "Baby 5",
+        "ImagePath": "images/cards/the best/OP05-034(V.5).png",
+        "Extension": "The best",
+        "Series": "OP05-034(V.5)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 157,
+        "Name": "Ulti",
+        "ImagePath": "images/cards/the best/OP05-043(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-043(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 158,
+        "Name": "Ulti",
+        "ImagePath": "images/cards/the best/OP05-043(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-043(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 159,
+        "Name": "Chien ardent",
+        "ImagePath": "images/cards/the best/OP05-057(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-057(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 160,
+        "Name": "Chien ardent",
+        "ImagePath": "images/cards/the best/OP05-057(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-057(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 161,
+        "Name": "Chien ardent",
+        "ImagePath": "images/cards/the best/OP05-057(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-057(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 162,
+        "Name": "Chien ardent",
+        "ImagePath": "images/cards/the best/OP05-057(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-057(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 163,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/OP05-069(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-069(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 164,
+        "Name": "Miss Doublefinger (Zala)",
+        "ImagePath": "images/cards/the best/OP05-073(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-073(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 165,
+        "Name": "Miss Doublefinger (Zala)",
+        "ImagePath": "images/cards/the best/OP05-073(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-073(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 166,
+        "Name": "Miss Doublefinger (Zala)",
+        "ImagePath": "images/cards/the best/OP05-073(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-073(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 167,
+        "Name": "Eustass Captain Kidd",
+        "ImagePath": "images/cards/the best/OP05-074(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-074(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 168,
+        "Name": "Eustass Captain Kidd",
+        "ImagePath": "images/cards/the best/OP05-074(V.5).png",
+        "Extension": "The best",
+        "Series": "OP05-074(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 169,
+        "Name": "Eustass Captain Kidd",
+        "ImagePath": "images/cards/the best/OP05-074(V.6).png",
+        "Extension": "The best",
+        "Series": "OP05-074(V.6)",
+        "Rarity": "SR",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 170,
+        "Name": "Soldat unijambiste",
+        "ImagePath": "images/cards/the best/OP05-081(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-081(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 171,
+        "Name": "Soldat unijambiste",
+        "ImagePath": "images/cards/the best/OP05-081(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-081(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 172,
+        "Name": "Soldat unijambiste",
+        "ImagePath": "images/cards/the best/OP05-081(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-081(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 173,
+        "Name": "Soldat unijambiste",
+        "ImagePath": "images/cards/the best/OP05-081(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-081(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 174,
+        "Name": "Shirahoshi",
+        "ImagePath": "images/cards/the best/OP05-082(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-082(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 175,
+        "Name": "Shirahoshi",
+        "ImagePath": "images/cards/the best/OP05-082(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-082(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 176,
+        "Name": "Shirahoshi",
+        "ImagePath": "images/cards/the best/OP05-082(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-082(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 177,
+        "Name": "Shirahoshi",
+        "ImagePath": "images/cards/the best/OP05-082(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-082(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 178,
+        "Name": "Satori",
+        "ImagePath": "images/cards/the best/OP05-105(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-105(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 179,
+        "Name": "Satori",
+        "ImagePath": "images/cards/the best/OP05-105(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-105(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 180,
+        "Name": "Satori",
+        "ImagePath": "images/cards/the best/OP05-105(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-105(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 181,
+        "Name": "Satori",
+        "ImagePath": "images/cards/the best/OP05-105(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-105(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 182,
+        "Name": "El Thor",
+        "ImagePath": "images/cards/the best/OP05-114(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-114(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 183,
+        "Name": "El Thor",
+        "ImagePath": "images/cards/the best/OP05-114(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-114(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 184,
+        "Name": "El Thor",
+        "ImagePath": "images/cards/the best/OP05-114(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-114(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 185,
+        "Name": "200 millions de volts Amal",
+        "ImagePath": "images/cards/the best/OP05-115(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-115(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 186,
+        "Name": "200 millions de volts Amal",
+        "ImagePath": "images/cards/the best/OP05-115(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-115(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 187,
+        "Name": "200 millions de volts Amal",
+        "ImagePath": "images/cards/the best/OP05-115(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-115(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 188,
+        "Name": "200 millions de volts Amal",
+        "ImagePath": "images/cards/the best/OP05-115(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-115(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 189,
+        "Name": "Upper Yard",
+        "ImagePath": "images/cards/the best/OP05-117(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-117(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+
+    },
+    {
+        "Id": 190,
+        "Name": "Upper Yard",
+        "ImagePath": "images/cards/the best/OP05-117(V.2).png",
+        "Extension": "The best",
+        "Series": "OP05-117(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 191,
+        "Name": "Upper Yard",
+        "ImagePath": "images/cards/the best/OP05-117(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-117(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 192,
+        "Name": "Upper Yard",
+        "ImagePath": "images/cards/the best/OP05-117(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-117(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 193,
+        "Name": "Kaido",
+        "ImagePath": "images/cards/the best/OP05-118(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-118(V.1)",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 194,
+        "Name": "Kaido",
+        "ImagePath": "images/cards/the best/OP05-118(V.3).png",
+        "Extension": "The best",
+        "Series": "OP05-118(V.3)",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 195,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/OP05-119(V.1).png",
+        "Extension": "The best",
+        "Series": "OP05-119(V.1)",
+        "Rarity": "SEC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 196,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/OP05-119(V.4).png",
+        "Extension": "The best",
+        "Series": "OP05-119(V.4)",
+        "Rarity": "SEC",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 197,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/OP05-119(V.5).png",
+        "Extension": "The best",
+        "Series": "OP05-119(V.5)",
+        "Rarity": "SEC",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 198,
+        "Name": "Emporio Ivankov",
+        "ImagePath": "images/cards/the best/OP06-003(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-003(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 199,
+        "Name": "Emporio Ivankov",
+        "ImagePath": "images/cards/the best/OP06-003(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-003(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 200,
+        "Name": "Emporio Ivankov",
+        "ImagePath": "images/cards/the best/OP06-003(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-003(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 201,
+        "Name": "Arlong",
+        "ImagePath": "images/cards/the best/OP06-023(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-023(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 202,
+        "Name": "Arlong",
+        "ImagePath": "images/cards/the best/OP06-023(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-023(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 203,
+        "Name": "Arlong",
+        "ImagePath": "images/cards/the best/OP06-023(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-023(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 204,
+        "Name": "Arlong",
+        "ImagePath": "images/cards/the best/OP06-023(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-023(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 205,
+        "Name": "Hody Jones",
+        "ImagePath": "images/cards/the best/OP06-035(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-035(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 206,
+        "Name": "Hody Jones",
+        "ImagePath": "images/cards/the best/OP06-035(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-035(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 207,
+        "Name": "Ryuma",
+        "ImagePath": "images/cards/the best/OP06-036(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-036(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 208,
+        "Name": "Ryuma",
+        "ImagePath": "images/cards/the best/OP06-036(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-036(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 209,
+        "Name": "Ryuma",
+        "ImagePath": "images/cards/the best/OP06-036(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-036(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 210,
+        "Name": "Ryuma",
+        "ImagePath": "images/cards/the best/OP06-036(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-036(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 211,
+        "Name": "Ichidai San Zen Dai Sen Sekai",
+        "ImagePath": "images/cards/the best/OP06-038(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-038(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 212,
+        "Name": "Ichidai San Zen Dai Sen Sekai",
+        "ImagePath": "images/cards/the best/OP06-038(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-038(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 213,
+        "Name": "Ichidai San Zen Dai Sen Sekai",
+        "ImagePath": "images/cards/the best/OP06-038(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-038(V.4)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 214,
+        "Name": "Épée céleste",
+        "ImagePath": "images/cards/the best/OP06-056(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-056(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 215,
+        "Name": "Épée céleste",
+        "ImagePath": "images/cards/the best/OP06-056(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-056(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 216,
+        "Name": "Épée céleste",
+        "ImagePath": "images/cards/the best/OP06-056(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-056(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 217,
+        "Name": "Ichiji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-060(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-060(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 218,
+        "Name": "Ichiji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-060(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-060(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 219,
+        "Name": "Ichiji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-060(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-060(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 220,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-064(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-064(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 221,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-064(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-064(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 222,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-064(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-064(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 223,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-065(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-065(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 224,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-065(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-065(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 225,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-065(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-065(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 226,
+        "Name": "Niji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-065(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-065(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 227,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-066(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-066(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 228,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-066(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-066(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 229,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-066(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-066(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 230,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-067(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-067(V.1)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 231,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-067(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-067(V.2)",
+        "Rarity": "R",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 232,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-067(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-067(V.3)",
+        "Rarity": "R",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 233,
+        "Name": "Yonji Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-067(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-067(V.4)",
+        "Rarity": "R",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 234,
+        "Name": "Reiju Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-068(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-068(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 235,
+        "Name": "Reiju Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-068(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-068(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 236,
+        "Name": "Reiju Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-068(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-068(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 237,
+        "Name": "Reiju Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-069(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-069(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 238,
+        "Name": "Reiju Vinsmoke",
+        "ImagePath": "images/cards/the best/OP06-069(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-069(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 239,
+        "Name": "Royaume de Germa",
+        "ImagePath": "images/cards/the best/OP06-079(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-079(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 240,
+        "Name": "Royaume de Germa",
+        "ImagePath": "images/cards/the best/OP06-079(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-079(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 241,
+        "Name": "Royaume de Germa",
+        "ImagePath": "images/cards/the best/OP06-079(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-079(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 242,
+        "Name": "Royaume de Germa",
+        "ImagePath": "images/cards/the best/OP06-079(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-079(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 243,
+        "Name": "Gecko Moria",
+        "ImagePath": "images/cards/the best/OP06-086(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-086(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 244,
+        "Name": "Gecko Moria",
+        "ImagePath": "images/cards/the best/OP06-086(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-086(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 245,
+        "Name": "Victoria Cindry",
+        "ImagePath": "images/cards/the best/OP06-091(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-091(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 246,
+        "Name": "Victoria Cindry",
+        "ImagePath": "images/cards/the best/OP06-091(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-091(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 247,
+        "Name": "Victoria Cindry",
+        "ImagePath": "images/cards/the best/OP06-091(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-091(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 248,
+        "Name": "Inuarashi",
+        "ImagePath": "images/cards/the best/OP06-100(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-100(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 249,
+        "Name": "Inuarashi",
+        "ImagePath": "images/cards/the best/OP06-100(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-100(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 250,
+        "Name": "Inuarashi",
+        "ImagePath": "images/cards/the best/OP06-100(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-100(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 251,
+        "Name": "Kouzuki Hiyori",
+        "ImagePath": "images/cards/the best/OP06-106(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-106(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 252,
+        "Name": "Kouzuki Hiyori",
+        "ImagePath": "images/cards/the best/OP06-106(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-106(V.3)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 253,
+        "Name": "Nekomamushi",
+        "ImagePath": "images/cards/the best/OP06-110(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-110(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 254,
+        "Name": "Nekomamushi",
+        "ImagePath": "images/cards/the best/OP06-110(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-110(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 255,
+        "Name": "Nekomamushi",
+        "ImagePath": "images/cards/the best/OP06-110(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-110(V.3)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 256,
+        "Name": "Wyper",
+        "ImagePath": "images/cards/the best/OP06-114(V.1).png",
+        "Extension": "The best",
+        "Series": "OP06-114(V.1)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 257,
+        "Name": "Wyper",
+        "ImagePath": "images/cards/the best/OP06-114(V.2).png",
+        "Extension": "The best",
+        "Series": "OP06-114(V.2)",
+        "Rarity": "UC",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 258,
+        "Name": "Wyper",
+        "ImagePath": "images/cards/the best/OP06-114(V.3).png",
+        "Extension": "The best",
+        "Series": "OP06-114(V.13)",
+        "Rarity": "UC",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 259,
+        "Name": "Roronoa Zoro",
+        "ImagePath": "images/cards/the best/OP06-118(V.4).png",
+        "Extension": "The best",
+        "Series": "OP06-118(V.4)",
+        "Rarity": "SEC",
+        "SpecialRarity": "Manga",
+        "Owned": false
+    },
+    {
+        "Id": 260,
+        "Name": "Kobe",
+        "ImagePath": "images/cards/the best/P-014(V.1).png",
+        "Extension": "The best",
+        "Series": "P-014(V.1)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 261,
+        "Name": "Kobe",
+        "ImagePath": "images/cards/the best/P-014(V.2).png",
+        "Extension": "The best",
+        "Series": "P-014(V.2)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 262,
+        "Name": "Kobe",
+        "ImagePath": "images/cards/the best/P-014(V.3).png",
+        "Extension": "The best",
+        "Series": "P-014(V.3)",
+        "Rarity": "P",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 263,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/P-029(V.1).png",
+        "Extension": "The best",
+        "Series": "P-029(V.1)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 264,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/P-029(V.3).png",
+        "Extension": "The best",
+        "Series": "P-029(V.3)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 265,
+        "Name": "Bartolomeo",
+        "ImagePath": "images/cards/the best/P-029(V.4).png",
+        "Extension": "The best",
+        "Series": "P-029(V.4)",
+        "Rarity": "P",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 266,
+        "Name": "Nami",
+        "ImagePath": "images/cards/the best/P-053(V.1).png",
+        "Extension": "The best",
+        "Series": "P-053(V.1)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 267,
+        "Name": "Nami",
+        "ImagePath": "images/cards/the best/P-053(V.3).png",
+        "Extension": "The best",
+        "Series": "P-053(V.3)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 268,
+        "Name": "Nami",
+        "ImagePath": "images/cards/the best/P-053(V.4).png",
+        "Extension": "The best",
+        "Series": "P-053(V.4)",
+        "Rarity": "P",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 269,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/P-055(V.1).png",
+        "Extension": "The best",
+        "Series": "P-055(V.1)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 270,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/P-055(V.3).png",
+        "Extension": "The best",
+        "Series": "P-055(V.3)",
+        "Rarity": "P",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 271,
+        "Name": "Monkey D. Luffy",
+        "ImagePath": "images/cards/the best/P-055(V.4).png",
+        "Extension": "The best",
+        "Series": "P-055(V.4)",
+        "Rarity": "P",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 272,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/the best/PRB01-001.png",
+        "Extension": "The best",
+        "Series": "PRB01-001",
+        "Rarity": "L",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 273,
+        "Name": "Sanji",
+        "ImagePath": "images/cards/the best/PRB01-001(V.1).png",
+        "Extension": "The best",
+        "Series": "PRB01-001(V.1)",
+        "Rarity": "L",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 274,
+        "Name": "Tony Tony Chopper",
+        "ImagePath": "images/cards/the best/ST01-006(V.1).png",
+        "Extension": "The best",
+        "Series": "ST01-006(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 275,
+        "Name": "Tony Tony Chopper",
+        "ImagePath": "images/cards/the best/ST01-006(V.11).png",
+        "Extension": "The best",
+        "Series": "ST01-006(V.11)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 276,
+        "Name": "Tony Tony Chopper",
+        "ImagePath": "images/cards/the best/ST01-006(V.9).png",
+        "Extension": "The best",
+        "Series": "ST01-006(V.9)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 277,
+        "Name": "Tony Tony Chopper",
+        "ImagePath": "images/cards/the best/ST01-006(V.10).png",
+        "Extension": "The best",
+        "Series": "ST01-006(V.10)",
+        "Rarity": "C",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 278,
+        "Name": "Guard Point",
+        "ImagePath": "images/cards/the best/ST01-014(V.1).png",
+        "Extension": "The best",
+        "Series": "ST01-014(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 279,
+        "Name": "Guard Point",
+        "ImagePath": "images/cards/the best/ST01-014(V.3).png",
+        "Extension": "The best",
+        "Series": "ST01-014(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 280,
+        "Name": "Guard Point",
+        "ImagePath": "images/cards/the best/ST01-014(V.4).png",
+        "Extension": "The best",
+        "Series": "ST01-014(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 281,
+        "Name": "Capone Bege",
+        "ImagePath": "images/cards/the best/ST02-004(V.1).png",
+        "Extension": "The best",
+        "Series": "ST02-004(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 282,
+        "Name": "Capone Bege",
+        "ImagePath": "images/cards/the best/ST02-004(V.4).png",
+        "Extension": "The best",
+        "Series": "ST02-004(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 283,
+        "Name": "Capone Bege",
+        "ImagePath": "images/cards/the best/ST02-004(V.5).png",
+        "Extension": "The best",
+        "Series": "ST02-004(V.5)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 284,
+        "Name": "Capone Bege",
+        "ImagePath": "images/cards/the best/ST02-004(V.6).png",
+        "Extension": "The best",
+        "Series": "ST02-004(V.6)",
+        "Rarity": "C",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 285,
+        "Name": "Dracule Mihawk",
+        "ImagePath": "images/cards/the best/ST03-005(V.1).png",
+        "Extension": "The best",
+        "Series": "ST03-005(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 286,
+        "Name": "Dracule Mihawk",
+        "ImagePath": "images/cards/the best/ST03-005(V.5).png",
+        "Extension": "The best",
+        "Series": "ST03-005(V.5)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 287,
+        "Name": "Dracule Mihawk",
+        "ImagePath": "images/cards/the best/ST03-005(V.6).png",
+        "Extension": "The best",
+        "Series": "ST03-005(V.6)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 288,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/ST03-008(V.1).png",
+        "Extension": "The best",
+        "Series": "ST03-008(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 289,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/ST03-008(V.8).png",
+        "Extension": "The best",
+        "Series": "ST03-008(V.8)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 290,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/ST03-008(V.9).png",
+        "Extension": "The best",
+        "Series": "ST03-008(V.9)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 291,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/the best/ST03-013(V.1).png",
+        "Extension": "The best",
+        "Series": "ST03-013(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 292,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/the best/ST03-013(V.3).png",
+        "Extension": "The best",
+        "Series": "ST03-013(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 293,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/the best/ST03-013(V.4).png",
+        "Extension": "The best",
+        "Series": "ST03-013(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 294,
+        "Name": "Boa Hancock",
+        "ImagePath": "images/cards/the best/ST03-013(V.5).png",
+        "Extension": "The best",
+        "Series": "ST03-013(V.5)",
+        "Rarity": "C",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 295,
+        "Name": "Kaido",
+        "ImagePath": "images/cards/the best/ST04-003(V.1).png",
+        "Extension": "The best",
+        "Series": "ST04-003(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 296,
+        "Name": "Kaido",
+        "ImagePath": "images/cards/the best/ST04-003(V.5).png",
+        "Extension": "The best",
+        "Series": "ST04-003(V.5)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 297,
+        "Name": "Queen",
+        "ImagePath": "images/cards/the best/ST04-005(V.1).png",
+        "Extension": "The best",
+        "Series": "ST04-005(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 298,
+        "Name": "Queen",
+        "ImagePath": "images/cards/the best/ST04-005(V.5).png",
+        "Extension": "The best",
+        "Series": "ST04-005(V.5)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 299,
+        "Name": "Queen",
+        "ImagePath": "images/cards/the best/ST04-005(V.6).png",
+        "Extension": "The best",
+        "Series": "ST04-005(V.6)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 300,
+        "Name": "Souffle ardent",
+        "ImagePath": "images/cards/the best/ST04-016(V.1).png",
+        "Extension": "The best",
+        "Series": "ST04-016(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 301,
+        "Name": "Souffle ardent",
+        "ImagePath": "images/cards/the best/ST04-016(V.4).png",
+        "Extension": "The best",
+        "Series": "ST04-016(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 302,
+        "Name": "Souffle ardent",
+        "ImagePath": "images/cards/the best/ST04-016(V.5).png",
+        "Extension": "The best",
+        "Series": "ST04-016(V.5)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 303,
+        "Name": "Helmeppo",
+        "ImagePath": "images/cards/the best/ST06-010(V.1).png",
+        "Extension": "The best",
+        "Series": "ST06-010(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 304,
+        "Name": "Helmeppo",
+        "ImagePath": "images/cards/the best/ST06-010(V.2).png",
+        "Extension": "The best",
+        "Series": "ST06-010(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 305,
+        "Name": "Helmeppo",
+        "ImagePath": "images/cards/the best/ST06-010(V.3).png",
+        "Extension": "The best",
+        "Series": "ST06-010(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 306,
+        "Name": "Onde de choc",
+        "ImagePath": "images/cards/the best/ST06-014(V.1).png",
+        "Extension": "The best",
+        "Series": "ST06-014(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 307,
+        "Name": "Onde de choc",
+        "ImagePath": "images/cards/the best/ST06-014(V.2).png",
+        "Extension": "The best",
+        "Series": "ST06-014(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 308,
+        "Name": "Onde de choc",
+        "ImagePath": "images/cards/the best/ST06-014(V.3).png",
+        "Extension": "The best",
+        "Series": "ST06-014(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 309,
+        "Name": "Charlotte Brulée",
+        "ImagePath": "images/cards/the best/ST07-007(V.1).png",
+        "Extension": "The best",
+        "Series": "ST07-007(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 310,
+        "Name": "Charlotte Brulée",
+        "ImagePath": "images/cards/the best/ST07-007(V.3).png",
+        "Extension": "The best",
+        "Series": "ST07-007(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 311,
+        "Name": "Charlotte Brulée",
+        "ImagePath": "images/cards/the best/ST07-007(V.4).png",
+        "Extension": "The best",
+        "Series": "ST07-007(V.4)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    },
+    {
+        "Id": 312,
+        "Name": "Flèche sonore",
+        "ImagePath": "images/cards/the best/ST09-014(V.1).png",
+        "Extension": "The best",
+        "Series": "ST09-014(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 313,
+        "Name": "Flèche sonore",
+        "ImagePath": "images/cards/the best/ST09-014(V.2).png",
+        "Extension": "The best",
+        "Series": "ST09-014(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 314,
+        "Name": "Flèche sonore",
+        "ImagePath": "images/cards/the best/ST09-014(V.3).png",
+        "Extension": "The best",
+        "Series": "ST09-014(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 315,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/ST10-010(V.1).png",
+        "Extension": "The best",
+        "Series": "ST10-010(V.1)",
+        "Rarity": "SR",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 316,
+        "Name": "Trafalgar Law",
+        "ImagePath": "images/cards/the best/ST10-010(V.4).png",
+        "Extension": "The best",
+        "Series": "ST10-010(V.4)",
+        "Rarity": "SR",
+        "SpecialRarity": "ALT ART",
+        "Owned": false
+    },
+    {
+        "Id": 317,
+        "Name": "Duval",
+        "ImagePath": "images/cards/the best/ST12-014(V.1).png",
+        "Extension": "The best",
+        "Series": "ST12-014(V.1)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 318,
+        "Name": "Duval",
+        "ImagePath": "images/cards/the best/ST12-014(V.2).png",
+        "Extension": "The best",
+        "Series": "ST12-014(V.2)",
+        "Rarity": "C",
+        "SpecialRarity": "REG ART",
+        "Owned": false
+    },
+    {
+        "Id": 319,
+        "Name": "Duval",
+        "ImagePath": "images/cards/the best/ST12-014(V.3).png",
+        "Extension": "The best",
+        "Series": "ST12-014(V.3)",
+        "Rarity": "C",
+        "SpecialRarity": "FULL ART",
+        "Owned": false
+    }
+]

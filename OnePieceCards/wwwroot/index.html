@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OnePieceCards</title>
+    <base href="/" />
+    <link rel="stylesheet" href="css/app.css" />
+    <script>
+        window.downloadFile = function (filename, content) {
+            const blob = new Blob([content], { type: "application/json" });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = filename;
+            a.click();
+            URL.revokeObjectURL(url);
+        };
+    </script>
+
+
+</head>
+<body>
+    <div id="app">
+        <div class="loader"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        <a href="" class="reload" aria-label="Accueil">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#D1E0D7" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                <path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z" />
+            </svg>
+        </a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+</body>
+
+</html>
