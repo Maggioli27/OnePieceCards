@@ -457,18 +457,10 @@ button.sort-toggle {
     /* Boutons Importer/Exporter côte à côte avec même taille */
     .mb-3 {
         gap: 12px;
-        flex-direction: row; /* côte à côte */
-        justify-content: center;
-        align-items: center;
-        flex-wrap: nowrap; /* éviter empilement */
     }
 
         .mb-3 button,
         .custom-file-label {
-            flex: 1; /* même largeur */
-            max-width: 180px; /* largeur max raisonnable */
-            padding: 10px 0;
-            font-size: 1rem;
             text-align: center;
             cursor: pointer;
             box-sizing: border-box;
@@ -482,7 +474,7 @@ button.sort-toggle {
         justify-content: center;
         margin-top: 10px;
         flex-wrap: wrap;
-    }
+        }
 }
 
 /* Gestion du focus sur select */
